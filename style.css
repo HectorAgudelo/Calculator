@@ -1,15 +1,37 @@
-.container-fluid {
+.row{
+    padding:10px; 
+}
+.container {
   margin-top: 20%;
+  background-color:lightgray;
+  max-width:30%;
+  padding: 1px;
+  border-radius: 5%;
+  box-shadow: 10px 10px 10px grey;
+  
 }
 
-.col-1 {
-  width: 4%;
+.number {
+  width: 20%;
+  height: 100%;
+  padding: 3%;
+  box-shadow: 5px 5px 20px grey;
 }
 
-.col-12 {
-  width: 17%;
+.equal {
+  width: 86%;
+  height: 100%;
+  padding: 3%;
+  box-shadow: 5px 5px 20px  grey;
 }
 
 .pantalla {
+  height: 60px;
   border-radius: 5%;
+  width: 84%;
+  font-size: 37px;
+  text-align: right;
+  padding: 4px;
+  background-color: aliceblue;
+  box-shadow: 5px 5px 20px  grey;
 }
