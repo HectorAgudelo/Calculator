@@ -1,1 +1,15 @@
-/* este es el css */
+.container-fluid {
+  margin-top: 20%;
+}
+
+.col-1 {
+  width: 4%;
+}
+
+.col-12 {
+  width: 17%;
+}
+
+.pantalla {
+  border-radius: 5%;
+}
